@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+dataset/
+*.mp4
+*.avi
+*.mov
+# Keep model if small, or ignore if large. 6MB is fine.
+# *.pt 
+.vscode/
+.idea/
