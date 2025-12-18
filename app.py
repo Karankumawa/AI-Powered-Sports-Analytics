@@ -13,7 +13,7 @@ from analytics import AnalyticsEngine
 # Page Config
 st.set_page_config(page_title="AI Sports Analytics", layout="wide")
 
-st.title("⚽ AI-Powered Sports Analytics")
+st.title(" AI-Powered Sports Analytics")
 
 # --- Sidebar ---
 st.sidebar.header("Settings")
